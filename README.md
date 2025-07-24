@@ -14,6 +14,7 @@ This is the React-based frontend for a doctor-patient platform that allows docto
 - React
 - @react-google-maps/api
 - Axios
+- Tailwind
 - Vite or Create React App (customizable)
 
 ## 📦 Installation
@@ -23,6 +24,7 @@ Clone the repository:
 - git clone https://github.com/SRR23/Doctor-Patient-Frontend.git
 - cd Doctor-Patient-Frontend
 - npm install
+- npm run dev
 
 ## 🔑 Environment Variables
 
