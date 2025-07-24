@@ -20,8 +20,8 @@ This is the React-based frontend for a doctor-patient platform that allows docto
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-frontend-repo.git
-cd your-frontend-repo
+git clone https://github.com/SRR23/Doctor-Patient-Frontend.git
+cd Doctor-Patient-Frontend
 npm install
 
 ## 🔑 Environment Variables
